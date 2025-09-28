@@ -1,0 +1,4 @@
+192.168.1.10 - login failed
+203.0.113.5 - download file: malware.exe SHA256=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b
+10.0.0.25 - login success
+172.16.0.7 - upload file: suspicious.doc MD5=5f4dcc3b5aa765d61d8327deb882cf99
