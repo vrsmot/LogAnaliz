@@ -1,0 +1,6 @@
+value,type,result,date
+8.8.8.8,IP,"{""malicious"": 1, ""suspicious"": 0, ""undetected"": 32, ""harmless"": 62, ""timeout"": 0}",2025-09-28T17:53:47.716060+00:00
+203.0.113.5,IP,"{""malicious"": 0, ""suspicious"": 0, ""undetected"": 35, ""harmless"": 60, ""timeout"": 0}",2025-09-28T17:53:49.460551+00:00
+192.168.0.10,IP,"{""malicious"": 0, ""suspicious"": 0, ""undetected"": 32, ""harmless"": 63, ""timeout"": 0}",2025-09-28T17:53:52.351648+00:00
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,HASH,"{""malicious"": 0, ""suspicious"": 0, ""undetected"": 61, ""harmless"": 0, ""timeout"": 1, ""confirmed-timeout"": 1, ""failure"": 1, ""type-unsupported"": 12}",2025-09-28T17:53:54.520678+00:00
+2c26b46b68ffc68ff99b453c1d30413413422d706483bfa0f98a5e886266e7ae,HASH,"{""malicious"": 0, ""suspicious"": 0, ""undetected"": 61, ""harmless"": 0, ""timeout"": 0, ""confirmed-timeout"": 0, ""failure"": 0, ""type-unsupported"": 15}",2025-09-28T17:53:56.369859+00:00
