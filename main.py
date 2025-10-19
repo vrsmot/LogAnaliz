@@ -9,7 +9,7 @@ from modules.virustotal import check_ip, check_hash
 from modules.report_generator import save_report
 
 # Вставьте сюда свой VirusTotal API-ключ перед использованием
-VT_API_KEY = "c5a432dfcfd02bb4f88d5ebf2792ed927c15b91eb3dc86ffd1f20a31686b0247"  # <-- ПОЛЬЗОВАТЕЛЬ ДОЛЖЕН ВСТАВИТЬ СВОЙ КЛЮЧ
+VT_API_KEY = "api"  # <-- ПОЛЬЗОВАТЕЛЬ ДОЛЖЕН ВСТАВИТЬ СВОЙ КЛЮЧ
 
 if not VT_API_KEY:
     raise ValueError("Пожалуйста, вставьте свой VirusTotal API-ключ в переменную VT_API_KEY")
